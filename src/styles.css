@@ -1,0 +1,32 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  margin-top: 20em;
+}
+
+.start {
+  margin: 1.5em;
+  padding: 1em;
+  border-radius: 0.5em;
+  border: none;
+  background-color: chartreuse;
+  cursor: pointer;
+}
+
+.stop {
+  margin: 1.5em;
+  padding: 1em;
+  border-radius: 0.5em;
+  border: none;
+  background-color:crimson;
+  cursor: pointer;
+}
+
+.reset {
+  margin: 1.5em;
+  padding: 1em;
+  border-radius: 0.5em;
+  border: none;
+  background-color:blue;
+  cursor: pointer;
+}
